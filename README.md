@@ -2,7 +2,6 @@
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-10.5.60-green.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Tests](https://img.shields.io/badge/Tests-26%20passed-brightgreen.svg)
 ![Coverage](https://img.shields.io/badge/Coverage-100%25-success.svg)
 
